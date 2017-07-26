@@ -1,0 +1,1 @@
+web: gunicorn hccr.wsgi --log-file -
