@@ -20,7 +20,7 @@ DataBase: HWDB1.1. u can get it from http://www.nlpr.ia.ac.cn/databases/handwrit
 
 ## heroku application
 
-i make it a heroku application. demo website:  https://shielded-atoll-68504.herokuapp.com/
+i make it a heroku application. demo website:  https://shielded-atoll-68504.herokuapp.com/ .there may be a delay of a few seconds for the first request upon waking. And this demo is based on 200 classes model, just for fun, don't be serious.
 
 ![website](https://raw.githubusercontent.com/zealerww/HCCR/master/demo_pic/demo.png)
 
